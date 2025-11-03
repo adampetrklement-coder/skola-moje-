@@ -1,0 +1,165 @@
+{
+    "admin": {
+        "workouts": [
+            {
+                "date": "2025-10-27 22:55:19",
+                "exercises": [
+                    [
+                        "Bench press",
+                        2,
+                        10,
+                        100
+                    ]
+                ],
+                "note": "",
+                "summary": "Bench press - 2x10, 100kg"
+            },
+            {
+                "date": "2025-10-27 22:55:56",
+                "exercises": [
+                    [
+                        "Bench press",
+                        3,
+                        12,
+                        120
+                    ]
+                ],
+                "note": "nlm",
+                "summary": "Bench press - 3x12, 120kg"
+            },
+            {
+                "date": "2025-10-27 23:00:21",
+                "exercises": [],
+                "note": "",
+                "summary": ""
+            },
+            {
+                "date": "2025-10-27 23:10:00",
+                "exercises": [],
+                "note": "",
+                "summary": ""
+            },
+            {
+                "date": "2025-10-27 23:11:35",
+                "exercises": [],
+                "note": "",
+                "summary": ""
+            },
+            {
+                "date": "2025-10-27 23:18:13",
+                "exercises": [],
+                "note": "",
+                "summary": ""
+            },
+            {
+                "date": "2025-10-27 23:25:48",
+                "exercises": [
+                    [
+                        "Mrtv\u00fd tah",
+                        2,
+                        2,
+                        30
+                    ]
+                ],
+                "note": "",
+                "summary": "Mrtv\u00fd tah - 2x2, 30kg"
+            },
+            {
+                "date": "2025-10-28 00:07:11",
+                "exercises": [
+                    [
+                        "Biceps curl",
+                        3,
+                        2,
+                        1
+                    ]
+                ],
+                "note": "",
+                "summary": "Biceps curl - 3x2, 1kg"
+            },
+            {
+                "date": "2025-10-28 00:07:25",
+                "exercises": [],
+                "note": "",
+                "summary": ""
+            },
+            {
+                "date": "2025-10-28 17:10:04",
+                "exercises": [
+                    [
+                        "Bench press",
+                        5,
+                        2,
+                        1
+                    ],
+                    [
+                        "latpulldown",
+                        4,
+                        25,
+                        5
+                    ]
+                ],
+                "note": "jsem pica",
+                "summary": "Bench press - 5x2, 1kg\nlatpulldown - 4x25, 5kg"
+            }
+        ],
+        "personal_records": {
+            "Bench press": 120,
+            "Mrtv\u00fd tah": 30,
+            "Biceps curl": 1,
+            "latpulldown": 5
+        },
+        "progress_data": {
+            "Bench press": [
+                {
+                    "date": "2025-10-27",
+                    "sets": 2,
+                    "reps": 10,
+                    "weight": 100,
+                    "volume": 2000
+                },
+                {
+                    "date": "2025-10-27",
+                    "sets": 3,
+                    "reps": 12,
+                    "weight": 120,
+                    "volume": 4320
+                },
+                {
+                    "date": "2025-10-28",
+                    "sets": 5,
+                    "reps": 2,
+                    "weight": 1,
+                    "volume": 10
+                }
+            ],
+            "Mrtv\u00fd tah": [
+                {
+                    "date": "2025-10-27",
+                    "sets": 2,
+                    "reps": 2,
+                    "weight": 30,
+                    "volume": 120
+                }
+            ],
+            "Biceps curl": [
+                {
+                    "date": "2025-10-28",
+                    "sets": 3,
+                    "reps": 2,
+                    "weight": 1,
+                    "volume": 6
+                }
+            ],
+            "latpulldown": [
+                {
+                    "date": "2025-10-28",
+                    "sets": 4,
+                    "reps": 25,
+                    "weight": 5,
+                    "volume": 500
+                }
+            ]
+        }
+    }
+}
