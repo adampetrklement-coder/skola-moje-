@@ -1,0 +1,116 @@
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\db.py", line 24, in init_db
+    print("Databáze (SQLite) úsp\u011bšn\u011b inicializována")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u011b' in position 21: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\app.py", line 24, in <module>
+    init_db()
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\db.py", line 29, in init_db
+    print(f"Neo\u010dekávaná chyba: {e}")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u010d' in position 3: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\app.py", line 26, in <module>
+    print(f"Chyba p\u0159i inicializaci databáze: {err}")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0159' in position 7: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\db.py", line 24, in init_db
+    print("Databáze (SQLite) úsp\u011bšn\u011b inicializována")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u011b' in position 21: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\app.py", line 24, in <module>
+    init_db()
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\db.py", line 29, in init_db
+    print(f"Neo\u010dekávaná chyba: {e}")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u010d' in position 3: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\app.py", line 26, in <module>
+    print(f"Chyba p\u0159i inicializaci databáze: {err}")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0159' in position 7: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\db.py", line 24, in init_db
+    print("Databáze (SQLite) úsp\u011bšn\u011b inicializována")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u011b' in position 21: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\app.py", line 24, in <module>
+    init_db()
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\db.py", line 29, in init_db
+    print(f"Neo\u010dekávaná chyba: {e}")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u010d' in position 3: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\app.py", line 26, in <module>
+    print(f"Chyba p\u0159i inicializaci databáze: {err}")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0159' in position 7: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\db.py", line 24, in init_db
+    print("Databáze (SQLite) úsp\u011bšn\u011b inicializována")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u011b' in position 21: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\app.py", line 24, in <module>
+    init_db()
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\db.py", line 29, in init_db
+    print(f"Neo\u010dekávaná chyba: {e}")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u010d' in position 3: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kluci\OneDrive\Dokumenty\projekt programovani\backend\app.py", line 26, in <module>
+    print(f"Chyba p\u0159i inicializaci databáze: {err}")
+  File "C:\Users\Kluci\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0159' in position 7: character maps to <undefined>
